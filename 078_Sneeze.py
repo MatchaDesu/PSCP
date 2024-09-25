@@ -1,0 +1,2 @@
+"Sneeze"
+print(input().swapcase())

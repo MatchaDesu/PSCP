@@ -1,0 +1,2 @@
+"username"
+print(input().lower())
